@@ -1,10 +1,10 @@
 
 
-.results-page-table-container{
+#results-page-table-container{
     margin: 20px auto;
 
 }
-table .results-page-table-container{
+table #sults-page-table-container{
     border-radius: 20px;
     padding: 20px;
     border-collapse: separate;
@@ -24,6 +24,5 @@ th{
     color: white;
     border-left: 1px solid #00204E;
     border-bottom: 1px solid #00204E;
-
 
 }
