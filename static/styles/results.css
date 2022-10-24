@@ -4,7 +4,7 @@
     margin: 20px auto;
 
 }
-table #sults-page-table-container{
+#results-page-table-container table{
     border-radius: 20px;
     padding: 20px;
     border-collapse: separate;
