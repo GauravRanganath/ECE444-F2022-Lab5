@@ -10,14 +10,14 @@
     border-collapse: separate;
 }
 
-#results-page-table-container table td{
+td{
     padding:3px;
     border-left: 1px;
     border-bottom: 1px solid #00204E;
 
 }
 
-#results-page-table-container table th{
+th{
     text-align: center;
     position: sticky;
     top: 2px;
