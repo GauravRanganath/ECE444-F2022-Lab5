@@ -4,6 +4,17 @@ Gaurav, Andrew, and Frank
 
 This repo is a clone of https://github.com/nelaturuk/education_pathways.git.
 
+## Activity 2-5
+
+### Home Page
+![home](activities/home.jpeg)
+![results form](activities/results_form.jpeg)
+![results table](activities/results_table.jpeg)
+
+### Results Form
+
+### Results Table
+
 ## Activity 6
 
 ### Edit Courses
